@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomBroadcastReceiver</string>
+    <string name="sendMessage">Write a message to broadcast!</string>
+    <string name="myBroadcastIntent">Broadcast an Intent now...</string>
+</resources>
